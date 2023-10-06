@@ -3,7 +3,7 @@ TOPS (Traverser of Planar Surfaces) or SPOT backward is a 12DOF quadrupedal robo
 
 YouTube Video: https://youtu.be/VhUvoV5XyRg
 
-Inspired By James Bruton's openDog V3: https://github.com/XRobots/openDogV3/tree/main
+Inspired By James Bruton's openDogV3: https://github.com/XRobots/openDogV3/tree/main
 
 -4 Month Build
 
